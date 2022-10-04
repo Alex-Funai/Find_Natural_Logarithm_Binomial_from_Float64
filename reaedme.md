@@ -7,8 +7,8 @@
                                                                                                                                   
 <h2> Usages: </h2>
 <ul>
-  <li> Evaluating definitive integrals </li>
-  <li> Findings area between curves, if antiderivatives are computed </li>
-  <li> Post-process injunction with TI-calculators MATH.fnint() funcntion </li>
+  <li> Evaluating definitive integrals. </li>
+  <li> Findings area between curves, if antiderivatives are computed. </li>
+  <li> Post-process injunction with TI-calculators MATH.fnint() funcntion. </li>
 
 
