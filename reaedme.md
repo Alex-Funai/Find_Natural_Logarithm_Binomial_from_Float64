@@ -9,6 +9,6 @@
 <ul>
   <li> Evaluating definitive integrals. </li>
   <li> Findings area between curves, if antiderivatives are computed. </li>
-  <li> Post-process injunction with TI-calculators MATH.fnint() funcntion. </li>
+  <li> Post-process injunction with TI-calculators MATH.fnint() function. </li>
 
 
